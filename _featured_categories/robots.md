@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 4
 description: >
-  여러 팁들을 공유합니다.
+  로봇이 더 쉽게, 더 널리
 ---

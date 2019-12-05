@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 2
 description: >
-  보고 사용한것들을 리뷰합니다. 
+  보고 만지고 듣고 맛보고 맡고
 ---
