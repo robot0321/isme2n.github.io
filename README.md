@@ -1,5 +1,4 @@
-
-## Jekyll Edition/isme2n - From github.com/isme2n
+## Jekyll Edition/isme2n Theme - From github.com/isme2n
 This Template is first edited by isme2n, and distributed free to fork and redesign.
 
 ## How to use 
@@ -18,8 +17,8 @@ See the commit message, and the folders/files with '__Restoring__' is from origi
 
 This markdown filed is writtne by robot0321, forked from isme2n.
 
-## 이 Jekyll는 Edition Jekyll을 isme2n이 변경하여 사용한 것으로 github.com/isme2n을 참고하세요.
-isme2n에 의해 자유로운 배포가 허용되었으므로, 마음에 드시면 fork나 download 해다가 쓰시기 바랍니다.
+## 지킬 Edition/isme2n 테마 - 출처: github.com/isme2n
+이 Jekyll는 Edition Jekyll을 isme2n이 변경하여 사용한 것으로 github.com/isme2n을 참고하세요. isme2n에 의해 자유로운 배포가 허용되었으므로, 마음에 드시면 fork나 download 해다가 쓰시기 바랍니다.
 
 ## 사용 방법
 <U>isme2n.github.io</U> 또는 <U>robot0321.github.io</U>에서 template 예시를 확인하실 수 있습니다. 예시 그림은 위에 있습니다.
