@@ -1,46 +1,38 @@
 
-## 소개
+## Jekyll Edition/isme2n - From github.com/isme2n
+This Template is first edited by isme2n, and distributed free to fork and redesign.
 
-안녕하세요, 저는 박민입니다. 재밌는 것과 디자인, 개발을 좋아하는 개발자입니다.
+## How to use 
+At <U>isme2n.github.io</U> or <U>robot0321.github.io</U>, you can see a example template like below.
 
-다른 사람들에게 영감과 영향을 주고 싶어서 개발자가 되었습니다. 전세계 사람들의 여행을 바꾼 에어비엔비, 일상을 바꾼 페이스북등을 존경합니다.
+### What is changed?
+See the commit message, and the folders/files with '__Restoring__' is from original Jekyll Edition. So, if you look around this repo, paying attention to the other folder/files except Restoring will save your time.
 
-예쁘고 단순한 것을 좋아합니다. React를 주로 사용하며 최근엔 프론트엔드를 위주로 공부하고 있습니다.
+### menus
+@ \_featured\_categories, you can design the menus on the left side bar. Design the layout style, name, whether to show menu/submenu and the order.
+@ \_featured\_tags, you can design the submenus.
 
-사람들을 만나는 걸 좋아하고, 그들과 함께 웃는 것을 좋아합니다. 혼자 어디 박혀서 코딩한다거나 뒹굴거리는 시간도 좋아합니다. 좋아하는게 많은 타입인 것 같아요.
+### contents
+@ \_post, you can upload your post with 'categories'=menu and 'tags'=submenu. The file name of it is formatted by **yyyy-mm-dd-the-title-of-the-post.markdown**
+@ assets/img, you can find & save image files.
 
-시스템을 상당히 좋아합니다. 서비스의 체계뿐만 아니라, 조직 체계, 운영 체계등 올바르게 돌아갈 수 있도록 뒷받침해주는 시스템적인 요소를 좋아합니다.
+This markdown filed is writtne by robot0321, forked from isme2n.
 
-CTO가 되는게 가장 큰 직업적 목표입니다.
+## 이 Jekyll는 Edition Jekyll을 isme2n이 변경하여 사용한 것으로 github.com/isme2n을 참고하세요.
+isme2n에 의해 자유로운 배포가 허용되었으므로, 마음에 드시면 fork나 download 해다가 쓰시기 바랍니다.
 
-반갑습니다.
+## 사용 방법
+<U>isme2n.github.io</U> 또는 <U>robot0321.github.io</U>에서 template 예시를 확인하실 수 있습니다. 예시 그림은 위에 있습니다.
 
-## 약력
+### 무엇이 바뀌었나요?
+커밋 메시지를 보면, **Restoring**이라고 되어 있는 부분은 원래 Jekyll 템플릿인 Edition에서 변화 없는 내용입니다. 따라서 코드 구조를 보실 때에는 Restoring이 아닌 폴더/데이터에 주목하시면 시간을 아끼실 수 있습니다.
 
-- 위즈돔에서 Spring기반의 굿모닝미리(경기도 좌석예약버스)앱 개발
+### 메뉴
+\_featured\_categories에서 메뉴를 설정하실 수 있습니다. 레이아웃 스타일, 이름, 메뉴와 서브메뉴를 표시할건지, 그리고 배치 순서에 대해 각각 지정할 수 있습니다.
+\_featured\_tags에 있는 md 파일들로 submenu (혹은 tag)들을 설정할 수 있습니다.
 
-- 위즈돔에서 React로 SK/Kakao 통근 버스 예약 앱 개발
+### 컨텐츠
+\_post 폴더에 작성한 포스트를 업로드 하면 됩니다. 파일 내부에 작성하는 'categories'는 들어갈 menu를, 'tags'는 들어갈 submenu를 표시합니다. 
+assets/img 폴더에는 사용한 이미지들이 있으며, 그곳에 저장하시길 추천합니다.
 
-- 이해라이프스타일에서 ReactNative로 홈퍼니싱 하이브리드 앱 개발
-
-- 숭실대학교 IT대학 컴퓨터학부 전공
-
-- 숭실대학교 IT대학 학생회장
-
-- 계남초/계남중/계남고 졸업
-
-- 경기도 부천 출생
-
-## 사이드프로젝트
-
-- [react-redux-material-meteor](https://github.com/isme2n/react-redux-material-meteor) - 보일러 플레이트
-
-- [48Wedding](http://48wedding.com) - 웨딩카드 만들기 서비스
-
-- [secretary](https://chrome.google.com/webstore/detail/secretary/bijcgcgbhmeemlnidoigdcnokggknikb?hl=ko) - 기사요약 크롬 확장서비스
-
-## 하고싶은 말
-
-다양한 사이드 프로젝트 제안, 친구 제안, 번개 제안 등등 해주시면 좋아합니다.
-
-행복하세요 오늘도.
+이 문서는 isme2n의 repo를 fork한 robot0321에 의해 만들어졌습니다.
