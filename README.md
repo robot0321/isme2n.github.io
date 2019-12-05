@@ -4,6 +4,10 @@ This Template is first edited by isme2n, and distributed free to fork and redesi
 ## How to use 
 At <U>isme2n.github.io</U> or <U>robot0321.github.io</U>, you can see a example template like below.
 
+### What to change?
+1. \_config.yml, you should change various sections, especially in 'url:' write down your blog address (ex: robot0321.github.io)
+2. google6f4ab0420b89d655.html file is made for admitting google search. Login with your id, get a new file. (How to? google it!)
+
 ### What is changed?
 See the commit message, and the folders/files with '__Restoring__' is from original Jekyll Edition. So, if you look around this repo, paying attention to the other folder/files except Restoring will save your time.
 
@@ -19,6 +23,10 @@ This markdown filed is writtne by robot0321, forked from isme2n.
 
 ## 지킬 Edition/isme2n 테마 - 출처: github.com/isme2n
 이 Jekyll는 Edition Jekyll을 isme2n이 변경하여 사용한 것으로 github.com/isme2n을 참고하세요. isme2n에 의해 자유로운 배포가 허용되었으므로, 마음에 드시면 fork나 download 해다가 쓰시기 바랍니다.
+
+## 반드시 바꿔야 하는 내용
+1. \_config.yml 파일에서 여러 가지 사항들을 고쳐줍니다. 특히 'url:' 부분은 자신의 블로그의 주소를 기입합니다. (ex: robot0321.github.io)
+2. google6f4ab0420b89d655.html 파일은 구글에서 검색이 되도록 하기 위한 파일입니다. 구글 아이디로 접속해서 파일을 새로 바꾸시기 바랍니다. 
 
 ## 사용 방법
 <U>isme2n.github.io</U> 또는 <U>robot0321.github.io</U>에서 template 예시를 확인하실 수 있습니다. 예시 그림은 위에 있습니다.
