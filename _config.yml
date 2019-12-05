@@ -2,29 +2,29 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Aiden
+title:               JaeYoung Chung
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://isme2n.github.io
+url:                 https://robot0321.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             가장 게으르기위해 가장 부지런한 개발자
+tagline:             즐겁게 춥을 춥시다.
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  게으르기 때문에 게발자.
-  글쓰는 걸 좋아하고, 디자인과 개발을 좋아한다.
+  둥글게 둥글게
+  인류에 도움이 될 수 있는 사람이 되길.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              aiden min
-  email:             zoqozqz@gmail.com
+  name:              J. Chung
+  email:             jychung0321@gmail.com
 
 # Fallback image and color
 image:               /assets/img/nap.jpg
