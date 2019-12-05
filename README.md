@@ -2,7 +2,7 @@
 This Template is first edited by isme2n, and distributed free to fork and redesign.
 
 ## How to use 
-At <U>isme2n.github.io</U> or <U>robot0321.github.io</U>, you can see a example template like below.
+@ <U>isme2n.github.io</U> or @ <U>robot0321.github.io</U>, you can see a example template like below.
 
 ### What to change?
 1. \_config.yml, you should change various sections, especially in 'url:' write down your blog address (ex: robot0321.github.io)
