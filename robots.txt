@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://robot0321.github.io/sitemap.xml
