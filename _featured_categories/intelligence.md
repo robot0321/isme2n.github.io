@@ -5,5 +5,5 @@ slug: intelligence
 menu: true
 submenu: true
 order: 3
-description:
+description: 새로운 가능성을 연구합니다
 ---
