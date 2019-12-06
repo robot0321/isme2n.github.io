@@ -5,5 +5,5 @@ slug: review
 menu: true
 submenu: true
 order: 2
-description: ΎΓ°ν ¶β°ν ΈΐΊΈ°ν Αρ±β°ν
+description: μ”Ήκ³  λ―κ³  λ§›λ³΄κ³  μ¦κΈ°κ³ 
 ---
