@@ -5,5 +5,5 @@ slug: essay
 menu: true
 submenu: false
 order: 1
-description: 다함께 엉덩이 춤을 춥시다.
+description: 흘러가는 순간들을 글로 옮겨 보면
 ---
