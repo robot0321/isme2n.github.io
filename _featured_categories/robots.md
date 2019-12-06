@@ -5,5 +5,5 @@ slug: robots
 menu: true
 submenu: true
 order: 4
-description: ¥ı Ω±∞‘, ¥ı ≥Œ∏Æ, ¥ı ¿Ã∑”∞‘
+description: Îçî ÏâΩÍ≤å, Îçî ÎÑêÎ¶¨, Îçî Ïù¥Î°≠Í≤å
 ---
