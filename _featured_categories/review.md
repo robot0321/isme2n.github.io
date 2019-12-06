@@ -5,5 +5,5 @@ slug: review
 menu: true
 submenu: true
 order: 2
-description:
+description: 씹고 뜯고 맛보고 즐기고
 ---
