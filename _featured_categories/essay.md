@@ -5,5 +5,5 @@ slug: essay
 menu: true
 submenu: false
 order: 1
-description:
+description: 흘러가는 시간들을 글로 옮겨서
 ---
