@@ -24,5 +24,5 @@ From the depth information which can be extracted from the overlapping region, g
 4.1) 카메라의 intrinsic parameter K를 모델링(리니어+물리모델) 하는 대신 딥러닝으로? + 여러 다른 카메라들에서 쓰기 위해서 generalization하고 meta-learning을 통해서 few-sample들로 금방 찾을 수 있게?
     - intrinsic/extrinsic 파라미터 구하기? - 후자의 경우 카메라끼리나 센서와의 align 찾아내기?
 4.2) 스테레오/모노 시퀀셜 데이터로 맵만들기? 어떤 방법으로 표현? 표현 방법이 정해져야 최적의 표현 방법을 찾는다?
-    - 이미지들에서 매핑? (대성당), 카메라 로컬라이제이션? (대성당), 모델 만든 다음 임의 위치/자세에서 제너레이션? 모델을 표현하는 방법? 
-    
+    - 이미지들에서 매핑? (photo tourism), 카메라 로컬라이제이션?, 모델 만든 다음 임의 위치/자세에서 제너레이션? 모델을 표현하는 방법? 
+    - photo tourism: http://phototour.cs.washington.edu/
